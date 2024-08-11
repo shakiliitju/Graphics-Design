@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Playball
+Author: TypeSETit
+Url: https://fonts.google.com/specimen/Playball
+
+Font: Besley
+Author: Owen Earl
+Url: https://fonts.google.com/specimen/Besley

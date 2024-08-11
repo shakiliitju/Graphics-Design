@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: El Messiri
+Author: Multiple Designers
+Url: https://fonts.google.com/specimen/El+Messiri
+
+Font: Poppins
+Author: Indian Type Foundry,Jonny Pinhorn
+Url: https://fonts.google.com/specimen/Poppins
